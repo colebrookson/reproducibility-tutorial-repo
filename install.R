@@ -1,1 +1,1 @@
-install.packages(c("here", "tidyverse"))
+install.packages(c("here", "ggplot2"))
