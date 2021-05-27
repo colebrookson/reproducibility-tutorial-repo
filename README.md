@@ -7,3 +7,4 @@
 5. A DOI/release number for your repo ** 
 6. 
 
+Launch this repo in Binder!!  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/colebrookson/reproducibility-tutorial-repo/master?urlpath=rstudio)
