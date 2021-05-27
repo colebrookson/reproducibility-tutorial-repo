@@ -12,7 +12,7 @@
 # set-up =======================================================================
 
 library(here) 
-library(tidyverse)
+library(ggplot2)
 
 data = read_csv(here("./data/raw-data/offspring_data.csv"))
 
