@@ -11,7 +11,7 @@
 # set-up =======================================================================
 
 library(here)
-library(tidyverse)
+library(ggplot2)
 
 setosa_subset = read_csv(here('./output/setosa_subset_data.csv'), 
                          guess_max = 150000)
