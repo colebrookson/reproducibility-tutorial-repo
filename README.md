@@ -7,6 +7,3 @@
 5. A DOI/release number for your repo ** 
 6. 
 
-
-Click here to launch this code base in an interactive repository! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/colebrookson/reproducibility-tutorial-repo/master?urlpath=rstudio)]
-
