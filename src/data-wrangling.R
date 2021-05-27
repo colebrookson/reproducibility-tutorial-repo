@@ -11,7 +11,7 @@
 # set-up =======================================================================
 
 library(here)
-library(tidyverse)
+library(ggplot2)
 data = iris
 
 # make function to subset by species 
