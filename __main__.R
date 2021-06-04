@@ -34,3 +34,17 @@ rm(list = ls())
 source(here('./src/visualization.R'))
 
 
+x = 2
+
+if(x == 2) {
+  exit("You idiot, x is 2")
+}
+
+print(x)
+
+
+
+
+
+
+
