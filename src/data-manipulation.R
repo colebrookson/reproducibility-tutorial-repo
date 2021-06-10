@@ -11,8 +11,8 @@
 
 # set-up =======================================================================
 
-library(here) 
 library(ggplot2)
+library(readr)
 
 data = read_csv(here("./data/raw-data/offspring_data.csv"))
 
